@@ -1,0 +1,22 @@
+{
+  "name": "react-native-advanced-ripple",
+  "version": "1.0.0",
+  "description": "Material design touch ripple with advanced functionality for react native",
+  "main": "Ripple.js",
+  "homepage": "https://github.com/naeemur/react-native-advanced-ripple#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naeemur/react-native-advanced-ripple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naeemur/react-native-advanced-ripple/issues"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "material design",
+    "advanced",
+    "ripple"
+  ]
+}
